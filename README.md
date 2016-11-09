@@ -1,2 +1,2 @@
 # go-boilerplate
-boilerplate for a simple go web app
+boilerplate for a simple dockerized go web app
